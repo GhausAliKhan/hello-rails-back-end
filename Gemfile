@@ -22,6 +22,8 @@ gem 'turbo-rails'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem 'rack-cors', '~> 1.1'
+
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem 'stimulus-rails'
 
